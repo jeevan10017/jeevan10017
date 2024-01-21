@@ -1,4 +1,4 @@
-# 💫 About Me:
+#                                             💫Hello, I'm Jeevan
 I am a sophomore at IIT Kharagpur and a passionate web developer. <br>I enjoy working with various technologies to create meaningful and innovative projects. <br>I am currently focusing on enhancing my backend development skills.<br><br>
 
 
