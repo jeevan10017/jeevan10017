@@ -1,4 +1,3 @@
-![](https://visitcount.itsvg.in/api?id=jeevan10017&label=Profile%20Views&icon=0&pretty=true)
 #                                             💫Hello, I'm Jeevan
 Pre-final year at IIT Kharagpur and a passionate web developer. <br>I enjoy working with various technologies to create meaningful and innovative projects. <br>I am currently focusing on enhancing my backend development skills.<br><br>
 
@@ -18,6 +17,8 @@ Pre-final year at IIT Kharagpur and a passionate web developer. <br>I enjoy work
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jeevan10017&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+![](https://visitcount.itsvg.in/api?id=jeevan10017&label=Profile%20Views&icon=0&pretty=true)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jeevankumar) 
