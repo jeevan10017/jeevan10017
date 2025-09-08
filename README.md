@@ -24,11 +24,9 @@
 
 ---
 
-### About Me
-
 <img
   align="right"
-  width="300" height="300"
+  width="200" height="200"
   src="assets/profile-image.png"
   alt="Jeevan Portfolio"
 />
@@ -99,7 +97,7 @@
 <div align="center">
 
 <a href="https://github.com/jeevan10017/GnexFlow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevan10017&repo=GnexFlow&theme=radical&cache_seconds=3600&v=1&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevan10017&repo=GnexFlow&theme=radical&cache_seconds=1000&v=2" />
 </a>
 <a href="https://github.com/jeevan10017/geo-health-gis-platform">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevan10017&repo=geo-health-gis-platform&theme=radical&cache_seconds=3600&v=1" />
@@ -109,7 +107,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevan10017&repo=Distributed-Data-Management-System&theme=radical&cache_seconds=3600&v=1" />
 </a>
 <a href="https://github.com/jeevan10017/Mekanika_website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevan10017&repo=Mekanika_website&theme=radical&cache_seconds=3600&v=1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevan10017&repo=Mekanika_website&theme=radical&cache_seconds=3600&v=2" />
 </a>
 
 <a href="https://github.com/jeevan10017/Crypto-Portfolio-App">
