@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/jeevan10017/jeevan10017/assets/banner-image" alt="Banner" width="100%" />
+  <img src="assets/banner-image.png" width="100%" alt="Banner" />
 </p>
 
 <div align="center">
@@ -29,11 +29,11 @@
 <img
   align="right"
   width="300" height="300"
-  src="https://github.com/jeevan10017/jeevan10017/assets/profile-image"
+  src="assets/profile-image.png"
   alt="Jeevan Portfolio"
 />
 
-<h3 align="left">
+<h4 align="left">
 
 - Final-year **B.Tech (Hons.)** in Manufacturing Science & Engineering, IIT Kharagpur (Graduating 2026)  
 - Experience as a **Full Stack Developer Intern** at Sarvin Appliances and Equvinoxis Technologies  
@@ -41,7 +41,7 @@
 - Finalist at **AI-Volution Hackathon 2025** | **Top Project Admin at GSSOC 2024**  
 - Portfolio → [jeevankumarkorra.vercel.app](https://jeevankumarkorra.vercel.app)  
 
-</h3>  
+</h4>  
 
 ---
 
@@ -99,24 +99,25 @@
 <div align="center">
 
 <a href="https://github.com/jeevan10017/GnexFlow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevan10017&repo=GnexFlow&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevan10017&repo=GnexFlow&theme=radical&cache_seconds=3600&v=1&layout=compact" />
 </a>
 <a href="https://github.com/jeevan10017/geo-health-gis-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevan10017&repo=geo-health-gis-platform&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevan10017&repo=geo-health-gis-platform&theme=radical&cache_seconds=3600&v=1" />
 </a>
 
 <a href="https://github.com/jeevan10017/Distributed-Data-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevan10017&repo=Distributed-Data-Management-System&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevan10017&repo=Distributed-Data-Management-System&theme=radical&cache_seconds=3600&v=1" />
 </a>
 <a href="https://github.com/jeevan10017/Mekanika_website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevan10017&repo=Mekanika_website&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevan10017&repo=Mekanika_website&theme=radical&cache_seconds=3600&v=1" />
 </a>
 
 <a href="https://github.com/jeevan10017/Crypto-Portfolio-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevan10017&repo=Crypto-Portfolio-App&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevan10017&repo=Crypto-Portfolio-App&theme=radical&cache_seconds=3600&v=1" />
 </a>
 
 </div>
+
 
 ---
 
