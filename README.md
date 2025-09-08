@@ -26,16 +26,16 @@
 
 <img
   align="right"
-  width="200" height="200"
+  width="250" height="250"
   src="assets/profile-image.png"
   alt="Jeevan Portfolio"
 />
 
-<h4 align="left">
+<h3 align="left">
 
 - Final-year **B.Tech (Hons.)** in Manufacturing Science & Engineering, IIT Kharagpur (Graduating 2026)  
 - Experience as a **Full Stack Developer Intern** at Sarvin Appliances and Equvinoxis Technologies  
-- Passionate about **backend engineering, distributed systems, and cloud-native development**  
+- Passionate about **frontend and backend engineering**, building scalable, user-centric applications
 - Finalist at **AI-Volution Hackathon 2025** | **Top Project Admin at GSSOC 2024**  
 - Portfolio → [jeevankumarkorra.vercel.app](https://jeevankumarkorra.vercel.app)  
 
