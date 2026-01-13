@@ -121,13 +121,22 @@
 
 ### GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevan10017&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jeevan10017&show_icons=true&theme=radical&hide_border=true" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevan10017&theme=radical&hide_border=true" /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=jeevan10017&show_icons=true&theme=radical&hide_border=true" /> -->
+  <a href="https://github.com/jeevan10017">
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeevan10017&layout=compact&langs_count=8&theme=radical"/>
+</a>
+<a href="https://github.com/jeevan10017">
+<img width="460" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeevan10017&show_icons=true&theme=radical&include_all_commits=true&count_private=true" align="right"/>
+</a>
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevan10017&layout=compact&theme=radical&hide_border=true" /> -->
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jeevan10017&label=Profile%20Views&color=blueviolet&style=flat-square" alt="profile views" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=jeevan10017&label=Profile%20Views&color=blueviolet&style=flat-square" alt="profile views" /> -->
+  <!-- <a href="https://www.linkedin.com/in/jkkorra/"> -->
+  <img src="https://komarev.com/ghpvc/?username=jeevan10017&style=flat-square" align="right"/>
+<!-- </a>  -->
 </div>
